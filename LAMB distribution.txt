@@ -1,0 +1,7 @@
+Oops, forgot to copy the problem description with the full narrative. You'll have to read my boring synopsis.
+
+Basically, given a (large) positive integer n, compute the length of the longest sequence of numbers whose successive terms double, but sum to less than n.
+
+By the same token, compute the length of the longest fibonacci sequence whose terms sum to less than n.
+
+The function should return the difference between these two lengths.  
